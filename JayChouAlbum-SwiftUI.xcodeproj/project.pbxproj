@@ -11,6 +11,7 @@
 		654E0F6F2D362965005E81E7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 654E0F6E2D362965005E81E7 /* ContentView.swift */; };
 		654E0F712D362967005E81E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 654E0F702D362967005E81E7 /* Assets.xcassets */; };
 		654E0F742D362967005E81E7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 654E0F732D362967005E81E7 /* Preview Assets.xcassets */; };
+		654E0F7B2D3656C7005E81E7 /* AlbumInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 654E0F7A2D3656C7005E81E7 /* AlbumInfo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		654E0F6E2D362965005E81E7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		654E0F702D362967005E81E7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		654E0F732D362967005E81E7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		654E0F7A2D3656C7005E81E7 /* AlbumInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumInfo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				654E0F6C2D362965005E81E7 /* JayChouAlbum_SwiftUIApp.swift */,
 				654E0F6E2D362965005E81E7 /* ContentView.swift */,
+				654E0F7A2D3656C7005E81E7 /* AlbumInfo.swift */,
 				654E0F702D362967005E81E7 /* Assets.xcassets */,
 				654E0F722D362967005E81E7 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				654E0F7B2D3656C7005E81E7 /* AlbumInfo.swift in Sources */,
 				654E0F6F2D362965005E81E7 /* ContentView.swift in Sources */,
 				654E0F6D2D362965005E81E7 /* JayChouAlbum_SwiftUIApp.swift in Sources */,
 			);
